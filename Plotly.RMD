@@ -105,13 +105,3 @@ plot_ly(accident_count) %>%
     yaxis = list(title = "number of accidents")
   )
 ```
-
-## Notes
-
-### Source code
-
-- The R Markdown source code of this presentation can be found in [this GitHub repository](https://github.com/spujadas/coursera-ddp-plotly).
-
-### Data source and licence
-
-- This project uses the [road safety data set](https://data.gov.uk/dataset/road-accidents-safety-data), released by the United Kingdom's Department for Transport under the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
